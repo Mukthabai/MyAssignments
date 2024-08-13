@@ -1,4 +1,4 @@
-package week.day1;
+package week1.day1;
 
 public class Firefox {
 
@@ -13,7 +13,8 @@ public class Firefox {
 		System.out.println("Browser Name: "+browserName);
 		System.out.println( "Visible: "+isVisible
 				+"\n" + "Release Year: "+releaseYear
-				+"\n" + "Browser Logo: "+browserLogo);
+				+"\n" + "Browser Logo: "+browserLogo
+				+"\n" + "Browser Version: "+browserVersion);
 		
 	}
 
